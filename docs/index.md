@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+<h1> Top 5 melhores animes <h1>
+<br>Aqui você verá os 5 melhores animes (Na minha opinião), e explico tudo sobre eles. Para mais informações, escolha um anime a seguir:
 
-You can use the [editor on GitHub](https://github.com/DbLegendsTIERLIST/Best-animes/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DbLegendsTIERLIST/Best-animes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+Top 1
+<br><img align="center" alt="anime 1" height="400" width="300" src="https://cdn.discordapp.com/attachments/555534237172891651/946606979848237106/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU.png">
+<br>Top 2
+<br><img align="center" alt="anime 2" height="400" width="300" src="https://cdn.discordapp.com/attachments/555534237172891651/946606979323953233/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU.png">
+<br>Top 3
+<br><img align="center" alt="anime 3" height="400" width="300" src="https://cdn.discordapp.com/attachments/555534237172891651/946607091219574834/2Q.png">
+<br>Top 4
+<br><img align="center" alt="anime 4" height="400" width="300" src="https://cdn.discordapp.com/attachments/555534237172891651/946607182009483325/2Q.png">
+<br>Top 5
+<br><img align="Center" alt="anime 5" height="400" width="300" src="https://cdn.discordapp.com/attachments/555534237172891651/946607090884022353/9k.png">
